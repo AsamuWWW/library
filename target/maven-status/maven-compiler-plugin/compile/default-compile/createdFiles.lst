@@ -1,7 +1,0 @@
-com/library/LibraryApplication.class
-com/library/util/IdGenerator.class
-com/library/util/DataManager.class
-com/library/service/LibraryService.class
-com/library/ui/LibraryConsoleUI.class
-com/library/model/Book.class
-com/library/service/LibraryServiceImpl.class
